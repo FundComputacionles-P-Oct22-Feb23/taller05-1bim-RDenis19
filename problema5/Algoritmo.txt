@@ -1,0 +1,12 @@
+1.Inicio
+2.Se pide el costo de litros del agua
+3.Se pide ingrsear el numero de litros de agua consumidos en el mes 
+4.Se pide la edad de la persona que esta pagando el servicio de agua
+5.Se multiplica el numero de litros a pagar por el agua * costo de los litros de agua - el descuento de 20% si < 20
+
+6.Se pide ingresar minutos consumidos del teléfono en el mes
+7.Se pide ingresar el costo por minuto 
+8.Se calcula el servicio de la luz multiplicando 
+numero de minutos gastados en el mes * el costo de cada minuto - el descuento de 20% si es <20
+9.Se suma el valor del servicio de luz + el servicio de agua 
+10.Se muestra en pantalla el valor final 
