@@ -25,3 +25,4 @@
 25. << "El subtotal a pagar es: " + subTotal
 26. << "El total a pagar es de: " + totalPagar
 27. Fin Si
+28. Fin
